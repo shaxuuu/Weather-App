@@ -10,7 +10,7 @@
 
 
 ### Features 
-  * Handling invalid cities.
+  * Handling invalid input.
   * Lowest/highest temperature and icon matching weather for the day.
 
 
