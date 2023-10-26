@@ -19,7 +19,12 @@
   
 ### Preview
 
+![App Preview](https://github.com/shaxuuu/Weather-App/assets/48029949/5a3b4bfe-a19a-406d-9a3c-6c70d8e5d5b7)
 
+
+
+
+https://github.com/shaxuuu/Weather-App/assets/48029949/c5f321e8-8ead-4041-8eca-9ff8d9419c0b
 
 
 
